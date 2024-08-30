@@ -1,4 +1,4 @@
-# ZStusy-STEM-projects-
+# ZStudyy-STEM-projects-
 start tinkering with the ZStudy STEM kit ..
 
 # WHERE TO BUY THE ZSTUDY STEM KIT ?
