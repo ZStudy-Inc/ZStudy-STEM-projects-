@@ -1,14 +1,16 @@
-to demonstrate flow control using the ZStudy STEM kit 
-#TRAFFIC LIGHT SIMULATION 
+TRAFFIC LIGHTS SYSTEM 
 
-    -using red,orange and green single LEDs
-    -using the ZStudy kits, digital pins 
+AIM 
+To simulate a traffic light system using 3  LEDs with zstudy stem kit 
 
-    #connection 
-        -connect the LEDs to the STEM kits digital outputs 
-        -ground each of the LEDs 
+COMPONENTS REQUIRED 
 
- #how it works 
-    - turn the LEDs on and of using the digitalWrite function 
-    -control how long each LEDs stays on or off using the delay function 
-    
+Zstudy stem board
+3mm X 3 LEDs (red,yellow,reeen)
+jumper wires 
+
+WHERE TO BUY 
+Zstudy computer online store ..visit web.zstudy.com
+
+ 
+     
