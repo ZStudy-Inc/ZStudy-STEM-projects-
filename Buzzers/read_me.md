@@ -26,3 +26,6 @@ The Arduino code defines pin 7 as the output for the buzzer. In the `setup()` fu
 4. The pattern repeats indefinitely.
 
 This simple yet effective project teaches the basics of timing using the `zstudy stem kit`  and how to use a piezo buzzer to create audible alerts or signals.
+
+# WHERE TO BUY COMPONENTS 
+Zstudy computer online store ..visit web.zstudy.com

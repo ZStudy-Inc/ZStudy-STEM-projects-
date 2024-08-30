@@ -8,4 +8,6 @@ an RGB LED is a set of 3 LEDs in one component
     -configuring the pins as analogue, using pinMode(pin, pinMode)
     -set the pins as High, using analogue write 
     -control the intensity of each colour, using the analogueWrite(pin, intensity)
-    
+
+# WHERE TO BUY 
+Zstudy computer online store ..visit web.zstudy.com

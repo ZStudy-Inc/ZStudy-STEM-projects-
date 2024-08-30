@@ -22,3 +22,6 @@ This sound wave travels through the air, and if it hits an object, it bounces ba
 # Conclusion
 This STEM kit  project is perfect for you  to learn about using ultrasonic sensors with `z study stem kit ` and automating systems based on object detection.
 
+# WHERE TO BUY 
+Zstudy computer online store ..visit web.zstudy.com
+
