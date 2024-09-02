@@ -2,7 +2,7 @@
 LED is short for light emitting diode.
 
 AIM 
-To create  asimp[le LED  circuit using the zstudy stem kit 
+To create  a simple LED  circuit using the zstudy stem kit 
 
 COMPONENTS REQUIRED 
 Zstudy stem kit, one LED, jumper wires.
