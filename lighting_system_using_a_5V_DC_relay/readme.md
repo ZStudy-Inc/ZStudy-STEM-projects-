@@ -9,7 +9,7 @@ jumper wires
 5V relay with maximum voltage operation of 250AC/30VDC.
 
 WIRING 
-Connect the control pin of the relay module to the digital pin 10 on the Zstudy stem board with the help of the jumper wires. connect the Vcc anf GND pins of the Zstudy stem board respectively.
+Connect the control pin of the relay module to the digital pin 10 on the Zstudy stem board with the help of the jumper wires. connect the Vcc and GND pins of the Zstudy stem board respectively.
 
 CODE EXPLANATION AND SCOURCE 
 The code will depend on the specific relay modele used, as different relay modeles have diffrent configuarations. in our case we use 5V relay. the lights turn on after 3 seconds 

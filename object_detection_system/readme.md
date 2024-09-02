@@ -5,7 +5,7 @@ This project demonstrates an automatic object detection system that can be used 
 The system uses an ultrasonic sensor to detect the presence of objects and measures the distance to them.
 
  # Components Used
--       Arduino UNO 
+-       Zstudy stem board
 -       Ultrasonic Sensor
 -       Buzzer 
 -       jumper Wires
