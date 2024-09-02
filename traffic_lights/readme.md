@@ -11,7 +11,7 @@ jumper wires
 
 WIRING 
 
-conect the red, yellow and green LEDs to digital pin 9,11 and 10 respectively on the ZStudy stem board. connect the negative legs of all LEDs to the ground of the stem board.
+conect the red, yellow and green LEDs to digital pin 9,7 and 10 respectively on the ZStudy stem board. connect the negative legs of all LEDs to the ground of the stem board.
 
 CODE EXPLANATION AND SOURCE 
 A traffic system is designed to control the flow of traffic at intersections. the system includes a set of lights that changes colours to indicate when drivers should stop, yeld or go. 
