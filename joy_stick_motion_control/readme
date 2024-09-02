@@ -18,7 +18,7 @@ The Arduino reads these inputs and prints the joystick positions and button stat
    Notes
    - The joystick's X and Y positions are represented by analog values ranging from 0 to 1023.
    - The button state is represented by digital values: `0` (pressed) and `1` (not pressed).
-   - You can adjust the delay in the `loop` function to change the frequency of updates to the Serial       Monitor.
+   - You can adjust the delay in the `loop` function to change the frequency of updates to the Serial or seven segment Monitor.
 
 2. ZStudy STEM kit [Arduino uno]:
    - Reads the analog values from the joystick's X and Y axes using the `analogRead` function.

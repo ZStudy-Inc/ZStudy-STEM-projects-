@@ -3,7 +3,7 @@
 
 // the program counts from 1 to 9 on the display
 
-#include "SevSeg"
+#include <SevSeg.h>
 
 SevSeg count;                                            //our display object instantiation 
 

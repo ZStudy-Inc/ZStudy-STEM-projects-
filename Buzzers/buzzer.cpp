@@ -26,7 +26,7 @@ void loop(){
     delay(2000);
     digitalWrite(palse_beep,0);
     delay(2000);
-    // even longer beep
+    // quicker longer beep
     digitalWrite(palse_beep,1);
     delay(3000);
     digitalWrite(palse_beep,0);
@@ -35,4 +35,14 @@ void loop(){
     delay(3000);
     digitalWrite(palse_beep,0);
     delay(3000);
+
+    digitalWrite(palse_beep,1);
+    delay(800);
+    digitalWrite(palse_beep,0);
+    delay(800);
+
+     digitalWrite(palse_beep,1);
+    delay(800);
+    digitalWrite(palse_beep,0);
+    delay(800);
 }
