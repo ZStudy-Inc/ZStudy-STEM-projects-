@@ -13,12 +13,12 @@ void setup(){
 }
 
 void loop(){
-    analogWrite(red,100);
-    analogWrite(green,200);
-    analogWrite(blue,20);
+    analogWrite(red,75);
+    analogWrite(green,80);
+    analogWrite(blue,40);
     delay(2000);
      analogWrite(red,100);
-    analogWrite(green,250);
-    analogWrite(blue,20);
+    analogWrite(green,100);
+    analogWrite(blue,200);
     delay(2000);
 }
