@@ -17,4 +17,7 @@ This repository is your one-stop shop for exploring the exciting world of electr
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/ZStudy-Inc/ZStudy-STEM-projects](https://github.com/ZStudy-Inc/ZStudy-STEM-projects.git)
+   git clone [https://github.com/ZStudy-Inc/ZStudy-STEM-projects-.git](https://github.com/ZStudy-Inc/ZStudy-STEM-projects-.git)
+
+2. **Where to buy **
+   -visit [zstudy](https://www.zstudy.co)
